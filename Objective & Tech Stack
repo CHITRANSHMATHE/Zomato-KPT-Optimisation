@@ -1,0 +1,30 @@
+## Objectives
+
+• Reduce rider waiting time
+
+• Improve ETA accuracy
+
+• Reduce merchant-induced data bias
+
+• Engineer reliable data signals
+
+• Build an ETL pipeline that improves input quality without changing the ML model
+
+
+## Tech Stack
+
+Python
+
+Pandas
+
+NumPy
+
+ETL Pipeline Design
+
+Feature Engineering
+
+Synthetic Data Generation
+
+Business Analytics
+
+Data Validation
