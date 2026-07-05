@@ -1,0 +1,12 @@
+## Business Problem
+
+Kitchen Preparation Time (KPT) predictions depend heavily on merchants manually marking orders as "Food Ready".
+
+These timestamps are often inaccurate because merchants may:
+
+- Mark food ready too early
+- Forget to update
+- Update only when riders arrive
+- Bulk update multiple orders
+
+This introduces noisy labels into the prediction pipeline, reducing ETA accuracy and increasing rider waiting time.
